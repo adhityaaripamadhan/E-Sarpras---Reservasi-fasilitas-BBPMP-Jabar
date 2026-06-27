@@ -1,0 +1,5 @@
+[21-Oct-2025 13:20:17 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'Keterangan' in 'SELECT' in /home/bbpn6975/public_html/pkl/sarpras.bbpmpjabar.info/kalender.php:46
+Stack trace:
+#0 /home/bbpn6975/public_html/pkl/sarpras.bbpmpjabar.info/kalender.php(46): mysqli_query()
+#1 {main}
+  thrown in /home/bbpn6975/public_html/pkl/sarpras.bbpmpjabar.info/kalender.php on line 46
